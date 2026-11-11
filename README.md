@@ -1,4 +1,4 @@
-# WebAssure----Application-Automation-Suite
+# Selenium Automation Test Suite
 
 ## Tech Stack
 
